@@ -21,10 +21,10 @@
 
 - Python 3.11
 - FastAPI - веб-фреймворк
-- SQLite + SQLAlchemy (async) — база данных и ORM
+- SQLite + SQLAlchemy (async)  база данных и ORM
 - Pydantic - валидация данных
 - Uvicorn - ASGI сервер
-- Docker + docker-compose — контейнеризация
+- Docker + docker-compose  контейнеризация
 - Pytest - тестирование
 
 ---
